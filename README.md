@@ -46,6 +46,14 @@ Welcome to the Orchid Admin Panel, your comprehensive solution for managing the 
 
 ![image](https://github.com/ManavTakoliya/Orchid_Ecommerce_Admin_Panel/assets/53990459/24727cc5-7349-4a8b-bc11-f47dbab68d09)
 
+## Tech Stack
+
+**Client:** [Android](https://developer.android.com/docs)
+
+**Admin:** [PHP](https://www.php.net/docs.php), [AdminConsole](https://adminlte.io)
+
+**Database:** Wamppp
+
 ## Getting Started
 
 To get started with the Orchid Admin Panel, follow these steps:
@@ -62,5 +70,8 @@ If you encounter any issues or have any questions, feel free to reach out to our
 
 We welcome contributions from the community! If you have ideas for new features or improvements, please submit a pull request. Let's grow and bloom together!
 
+## Author
+
+- [@Manav Takoliya](https://www.github.com/ManavTakoliya)
 
 ---
