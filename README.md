@@ -22,7 +22,29 @@ Welcome to the Orchid Admin Panel, your comprehensive solution for managing the 
 
 ## Photos
 
+- Interactive Dashboard
+  
+![image](https://github.com/ManavTakoliya/Orchid_Ecommerce_Admin_Panel/assets/53990459/22777262-240e-4003-9b37-d3a4667c70c9)
 
+- Order Management
+  
+![image](https://github.com/ManavTakoliya/Orchid_Ecommerce_Admin_Panel/assets/53990459/b042fd80-1fb8-401c-8bd6-43cf0a6ebefc)
+
+- Product Management
+
+![image](https://github.com/ManavTakoliya/Orchid_Ecommerce_Admin_Panel/assets/53990459/da8eed33-3419-4531-930f-d208928177da)
+
+- User Management
+
+![image](https://github.com/ManavTakoliya/Orchid_Ecommerce_Admin_Panel/assets/53990459/1e544aeb-834a-4e95-814a-a0c2c8bfec58)
+
+- User Management With editor
+
+![image](https://github.com/ManavTakoliya/Orchid_Ecommerce_Admin_Panel/assets/53990459/8d1ddd6a-8b82-4481-ba8a-a78790ab82bc)
+
+- Order billing and status changed fetures
+
+![image](https://github.com/ManavTakoliya/Orchid_Ecommerce_Admin_Panel/assets/53990459/24727cc5-7349-4a8b-bc11-f47dbab68d09)
 
 ## Getting Started
 
